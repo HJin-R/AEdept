@@ -1,5 +1,5 @@
 # AEdept
-Java console program for hospital registration
+Java console program for hospital registration - Presented as a single Java file to conform to the assignment submission rules.
 
 ## Data structure applied
 ### List
